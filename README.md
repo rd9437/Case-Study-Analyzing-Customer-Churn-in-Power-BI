@@ -1,16 +1,28 @@
 # Case-Study-Analyzing-Customer-Churn-in-Power-BI
 In this Power BI case study, I have investigated a dataset from an example telecom company called Databel and analyzed their churn rates.
 
-## 1. Exploratory Analysis
+## 1. Overview
 
-### Data Check
+![Screenshot](images/Screenshot%202025-04-13%20191749.png)
 
-![Screenshot](images/Screenshot%202025-04-13%20172730.png)
+### Insights
 
-### Churn Rate
+![Screenshot](images/Screenshot%202025-04-13%20191811.png)
 
-![Screenshot](images/churn%20rate.png)
 
+## 🛠️ Installation & Usage
+
+### 1️⃣ Clone the Repository
+
+```
+git clone https://github.com/rd9437/Case-Study-Analyzing-Customer-Churn-in-Power-BI.git
+```
+
+### 2️⃣ Open the PowerBI Dashboard
+
+- Ensure you have PowerBI Desktop installed.
+
+- Open the ```Customer Churn case study.pbix``` file in Tableau to explore the visualizations.
 
 
 
