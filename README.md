@@ -20,7 +20,7 @@ git clone https://github.com/rd9437/Case-Study-Analyzing-Customer-Churn-in-Power
 
 ### 2️⃣ Open the PowerBI Dashboard
 
-- Ensure you have PowerBI Desktop installed.
+- Ensure you have PowerBI Desktop installed
 
 - Open the ```Customer Churn case study.pbix``` file in Tableau to explore the visualizations.
 
